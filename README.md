@@ -1,2 +1,2 @@
 # Capstone-project
-Personal Study Assistant Multiagent
+mental_health_companion 
